@@ -1,0 +1,56 @@
+.light-blue {
+	color: rgb(75,161,235);
+}
+
+.ml {
+	margin: 0 10px 0 30px;
+}
+
+.head-row {
+	border-bottom: 1px solid grey;
+}
+
+.ui.grid>.row {
+	padding-bottom: 0;
+}
+
+.ui.grid>.row>.column.nav-row {
+	border-bottom: 1px solid lightgrey;
+	margin-bottom: 10px;
+}
+
+.nav-options {
+	padding-bottom: 10px;
+	font-weight: 900;
+}
+
+.ui.grid>.row>.column.nav-row:hover {
+	border-bottom: 2px solid rgb(75,161,235);
+
+}
+
+.ui.grid>.row>.column.nav-row:hover>.ui.container>.nav-options {
+	color: rgb(75,161,235);
+}
+
+.grayscale {
+	color: grey;
+}
+
+h4 {
+	display: inline-block;
+	margin-bottom: 0;
+}
+
+.media {
+	border-radius: 15px;
+	margin-top: 10px;
+}
+
+.each {
+	border-bottom: 1px solid lightgrey;
+}
+
+.ui.grid>.row.mb {
+	margin-bottom: 10px;
+}

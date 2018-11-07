@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "gulp": "^3.9.1",
+    "http-server": "^0.11.1",
+    "semantic-ui": "^2.4.2"
   }
 }
